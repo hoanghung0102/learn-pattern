@@ -9,6 +9,4 @@ abstract class GenSourceCode {
     public String toString() {
         return "Annotation: " + getAnnotation() + " Content: " + getContentLogic();
     }
-
-
 }
