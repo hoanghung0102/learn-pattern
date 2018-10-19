@@ -1,6 +1,6 @@
 package hoanghung.com.demo.pattern.learnpattern.factory;
 
-import hoanghung.com.demo.pattern.learnpattern.ultility.SourceLogicType;
+import hoanghung.com.demo.ultitlity.SourceLogicType;
 
 public class GenSourceCodeFactory {
 

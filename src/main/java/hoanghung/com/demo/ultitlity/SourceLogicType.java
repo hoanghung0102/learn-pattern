@@ -1,4 +1,4 @@
-package hoanghung.com.demo.pattern.learnpattern.ultility;
+package hoanghung.com.demo.ultitlity;
 
 public enum SourceLogicType {
     SERVICE,
